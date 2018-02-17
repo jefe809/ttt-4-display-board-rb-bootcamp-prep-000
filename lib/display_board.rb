@@ -5,6 +5,11 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
   
-  puts "   |#{boards[4]}   |   "
+  
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |#{board[4]}   |   "
+  puts "-----------"
+  puts "   |   |   "
   
 end
