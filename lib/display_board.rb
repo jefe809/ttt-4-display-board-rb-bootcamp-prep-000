@@ -7,7 +7,7 @@ def display_board(board)
   
   puts "   |   |   
         -----------
-           |#{board[4]}   |  
+           |#{board[2]}   |  
         -----------
            |   |   "
 
